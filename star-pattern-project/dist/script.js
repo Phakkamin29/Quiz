@@ -1,5 +1,4 @@
 "use strict";
-
 const inputNumber = document.getElementById("inputNumber");
 const submitBtn = document.getElementById("submitBtn");
 const outputDiv = document.getElementById("output");
